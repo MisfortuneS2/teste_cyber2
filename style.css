@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(255, 164, 214);
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 32px;
+    text-align: center;
+    font-style: oblique;
+}
+
+nav a{
+    margin-right: 32px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    background-color: rgb(255, 136, 201);
+    padding: 4px 4px;
+    border-radius: 8px;
+}
+
+img{
+    width: 360px;
+    height: 500px;
+    border-radius: 32px;
+    background-color: rgb(255, 200, 227);
+}
